@@ -16,3 +16,5 @@ function valovalo(sum) {
     }
 }
 valovalo(sum= "add")
+
+//test comment
