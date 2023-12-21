@@ -9,7 +9,7 @@ console.log(name)
 
 printval("titi")
 function valovalo(sum) {
-    if (sum=="add") {
+    if (sum=="add") 
         console.log(val1+val2);
     } else if (sum=="multiplication") {
         console.log(val1 - val2);
